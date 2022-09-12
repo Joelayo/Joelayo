@@ -34,6 +34,22 @@
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/sql/sql.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/bash/bash.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/markdown/markdown.png"></code>
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/joel-oduyemi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/Joel_Plush"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/joelayo_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<!-- <a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
+
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+</a>
+<a href="https://github.com/Joelayo?tab=followers"><img src="https://img.shields.io/github/followers/NikkyXO?label=Followers&style=social" alt="GitHub Badge"></
 <!---
 Joelayo/Joelayo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
