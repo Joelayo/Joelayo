@@ -71,7 +71,7 @@ Name | Badges
  <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level
 
 
-> <a href="https://github.com/Joelayo/github-readme-activity-graph"><img alt="Joel Oduyemi' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Joelayo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+> <a href="https://github.com/Joelayo/github-readme-activity-graph"><img alt="Joel Oduyemi' Activity Graph" src="https://github-readme-activity-graph.cyclic.app.com/graph?username=Joelayo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 
 <!---
