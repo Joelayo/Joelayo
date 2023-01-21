@@ -11,7 +11,7 @@
 
 - 🌱 I’m also learning **Dynamic Programming**
 
-- 💬 You can ask me about **Cross-platform Mobile App Development and AWS**
+- 💬 You can ask me about **Cross-platform Mobile App Development, Cloud DevOps tooling and AWS**
 
 - 📫 How to reach me **joetech.ooj@gmail.com**
 
