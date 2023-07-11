@@ -11,7 +11,7 @@
 
 - 🌱 I’m also learning **Dynamic Programming**
 
-- 💬 You can ask me about **Cloud Infrastructure, Cloud DevOps tooling, Microsoft Azure and AWS**
+- 💬 You can ask me about **Cloud Infrastructure, Cloud DevOps, Microsoft Azure and AWS**
 
 - 📫 How to reach me **joetech.ooj@gmail.com**
 
