@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/Joel_Plush" target="blank"><img src="https://img.shields.io/twitter/follow/Joel_Plush?logo=twitter&style=for-the-badge" alt="Joel_Plush" /></a> </p>
 
-- 🔭 I’m currently working on **Projects with Flutter, Dart and TypeScript**
+- 🔭 I’m currently working on **Projects with Microsoft Azure, Azure DevOps, and Argo CD**
 
 - 🌱 I’m also learning **Dynamic Programming**
 
-- 💬 You can ask me about **Cross-platform Mobile App Development, Cloud DevOps tooling and AWS**
+- 💬 You can ask me about **Cloud Infrastructure, Cloud DevOps tooling, Microsoft Azure and AWS**
 
 - 📫 How to reach me **joetech.ooj@gmail.com**
 
-- ⚡ Fun fact **I'm a student of ALX Software Engineering Scholarship Programme**
+- ⚡ Fun fact **I completed the ALX Software Engineering 12-Month Scholarship Programme (Cohort 5) and also completed Udacity Cloud Developer Nanodegree**
 
 - 🔭 I'm a member of **Google Developer Group and am open to work**
  
