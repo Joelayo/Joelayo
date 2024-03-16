@@ -56,7 +56,7 @@ Name | Badges
 <a href="https://github.com/Joelayo/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Joelayo">
 </a>
-<a href="https://github.com/Tolulope05?tab=followers"><img src="https://img.shields.io/github/followers/Joelayo?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Joelayo?tab=followers"><img src="https://img.shields.io/github/followers/Joelayo?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
  <br>
